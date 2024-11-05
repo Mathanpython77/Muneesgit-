@@ -1,1 +1,24 @@
-hello thius the the checking  for a pull method 
+#GitUP FILE ADD 
+>folder create
+>cd Muneesgit- [folder name]
+
+#GIT PUSH
+> type git status
+>git add test1.py[file name]
+>git commit -m "test1.py file added"
+>git push origin main
+
+#FILE DELETED
+>type git status
+>git add test1.py[file name]
+>git commit -m " Deleted test1.py "
+>git push origin main
+
+#GIT PULL
+>change the text or code for any file 
+> next press the commit change option
+>type the git pull for the vs.code thermal 
+
+#ANOTHER FILE CREATE OR OPEN
+>use cd..
+> next cd Muneesgit1- [new folder name]
